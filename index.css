@@ -1,0 +1,153 @@
+*{
+    margin: o;
+    padding: 0;
+}
+
+#DD {
+        line-height: 3;
+
+
+}
+#A {
+    color: grey;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+
+#B {
+
+    text-align: right;
+    color: grey;
+
+}
+
+
+#C{
+    text-align: right;
+   color: grey;
+    font-family: sans-serif;
+}
+
+#D {
+    text-align: right;
+    font-family: sans-serif;
+    color: white;
+}
+
+
+#E {
+    text-align: center;
+    font-family: sans-serif;
+    color: white; 
+}
+
+#F {
+    text-align: right;
+    font-style: italic;
+    font-family: sans-serif;
+     color: white;
+     font-size: 25px;
+}
+
+#G {
+        text-align: right;
+    font-family: sans-serif;
+     color: white;
+}
+
+#DD {
+     background: #682a9b;
+background: linear-gradient(90deg, rgba(104, 42, 155, 1) 0%, rgba(69, 32, 32, 1) 100%);
+
+}
+
+#H {
+   color: grey;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+#I {
+    text-align: left;
+    font-family: sans-serif;
+     color: white;
+}
+
+#J {
+    text-align: left;
+    font-family: sans-serif;
+     color: white;
+}
+
+#K {
+    text-align: left;
+    font-weight: bold;
+    font-style: italic;
+    font-family: sans-serif;
+     color: white;
+      font-size: 25px;
+}
+
+#L {
+    text-align: center;
+    font-family: sans-serif;
+    color: grey;
+}
+
+#M {
+    text-align: center;
+    font-family: sans-serif;
+     color: white;
+}
+
+#N {
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+     font-size: 25px;
+     color: white;
+}
+
+#O {
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+    line-height: 1.9;
+     color: white;
+}
+
+#P {
+    text-align: left;
+   color: grey;
+    font-family: sans-serif;
+}
+
+#Q {
+    text-align: left;
+   color: white;
+    font-family: sans-serif;
+}
+
+#R {
+    text-align: left;
+   color: white;
+    font-family: sans-serif;
+}
+
+#S {
+    text-align: left;
+   color: white;
+    font-family: sans-serif;
+    font-style: italic;
+     font-size: 25px;
+}
+#T {
+    text-align: left;
+   color: white;
+    font-family: sans-serif;
+}
+
+#U {
+    text-align: center;
+}
